@@ -9,4 +9,4 @@ http://scn.sap.com/community/developer-center/cloud-platform/blog/2013/01/25/uno
 
 or watch the demo here: 
 
-http://www.youtube.com/watch?v=k82UoGvYIy0
+http://www.youtube.com/watch?feature=player_embedded&v=xPI6O6pHwzE
